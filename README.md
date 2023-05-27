@@ -11,7 +11,7 @@
 * [Android版](https://play.google.com/store/apps/details?id=com.RikotenRenrakukai.VirtualRikoten&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)   
 * [早稲田ウィークリー記事](https://www.waseda.jp/inst/weekly/feature/2022/10/31/101573/)  
 * [高田馬場経済新聞記事](https://takadanobaba.keizai.biz/headline/543/)  
-### 2022.4-2023.3 都バス渋滞検知Webサービス <img alt="Python" src="https://img.shields.io/badge/python-blue.svg?logo=python&logoColor=white" /> <img alt="Django" src="https://img.shields.io/badge/-Django-092E20.svg?logo=django" /> <img alt="javascript" src="https://img.shields.io/badge/javascript-yellow.svg?logo=javascript&logoColor=white" />
+### 2022.4-2023.3 都バス渋滞検知Webサービス <img alt="Python" src="https://img.shields.io/badge/python-blue.svg?logo=python&logoColor=white" /> <img alt="javascript" src="https://img.shields.io/badge/javascript-yellow.svg?logo=javascript&logoColor=white" /> <img alt="Django" src="https://img.shields.io/badge/-Django-092E20.svg?logo=django" /> <img alt="Wordpress" src="https://img.shields.io/badge/wordpress-blue.svg?logo=wordpress" /> 
 * [都バス渋滞検知Webサービス](https://www.yama.info.waseda.ac.jp/ja/tobus_trafficinfo)
 * [都バス渋滞検知プロジェクトHP](https://www.yama.info.waseda.ac.jp/ja/tobus)  
 * [東京都と大学との共同事業](https://www.seisakukikaku.metro.tokyo.lg.jp/basic-plan/daigaku/kyodo-jigyo.html#item_wasedar04)  
