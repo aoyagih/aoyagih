@@ -20,5 +20,6 @@
 東京都政策企画局が実施する「令和4年度東京都と大学との共同事業」(応募16事業中、3事業が採択)で開発。オープンデータとして公開されている都営バスの運行データ(バスの発車時刻、時刻表データ等)をもとに、AI(機械学習)による都内一般道の渋滞予測を提供。都バス全131系統の区間が予測対象。
 * [都バス渋滞検知Webサービス](https://www.yama.info.waseda.ac.jp/ja/tobus_trafficinfo)
 * [都バス渋滞検知プロジェクトHP](https://www.yama.info.waseda.ac.jp/ja/tobus)  
-* [東京都と大学との共同事業(東京都政策企画局HP)](https://www.seisakukikaku.metro.tokyo.lg.jp/basic-plan/daigaku/kyodo-jigyo.html#item_wasedar04)  
+* [東京都と大学との共同事業HP（東京都政策企画局）](https://www.seisakukikaku.metro.tokyo.lg.jp/basic-plan/daigaku/kyodo-jigyo.html#item_wasedar04)
+* [東京都渋滞対策推進会議HP](https://www.seikatubunka.metro.tokyo.lg.jp/tomin_anzen/about/kaigi/kotsu-anzen/0000002493.html) （令和5年度東京都渋滞対策推進会議（令和5年5月11日）にて本サービス紹介）
 * [日経新聞 2022年3月31日記事](https://www.nikkei.com/article/DGXZQOCC296DU0Z20C22A3000000/)
